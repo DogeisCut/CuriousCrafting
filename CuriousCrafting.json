@@ -1,0 +1,16 @@
+{
+	"id": "CuriousCrafting",
+	"name": "Curious Crafting",
+	"display_name": "Curious Crafting",
+	"author": ["DogeisCut"],
+	"description": "Adds a crafting system to the shop.",
+	"prefix": "cc",
+	"main_file": "CuriousCrafting.lua",
+	"badge_colour": "fcba03",
+	"badge_text_colour": "5e4b36",
+	"version": "1.0.0",
+	"dependencies": [
+        "Steamodded (>=1.*)",
+        "Lovely (>=0.6)"
+    ]
+}

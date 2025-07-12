@@ -1,0 +1,5 @@
+assert(SMODS.load_file('src/game_objects.lua'))()
+assert(SMODS.load_file('src/recipes.lua'))()
+assert(SMODS.load_file('src/ingredients.lua'))()
+assert(SMODS.load_file('src/object_types.lua'))()
+assert(SMODS.load_file('src/ingredients_area.lua'))()
