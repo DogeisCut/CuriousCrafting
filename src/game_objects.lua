@@ -83,3 +83,4 @@ CC.Ingredient = SMODS.Center:extend {
         SMODS.insert_pool(G.P_CENTER_POOLS['Ingredient'], self)
     end
 }
+
