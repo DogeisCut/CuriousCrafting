@@ -80,6 +80,6 @@ CC.Ingredient = SMODS.Center:extend {
     class_prefix = 'i',
     inject = function(self)
         SMODS.Center.inject(self)
-        --SMODS.insert_pool(G.P_CENTER_POOLS['Ingredient'], self)
+        SMODS.insert_pool(G.P_CENTER_POOLS['Ingredient'], self)
     end
 }
